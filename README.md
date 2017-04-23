@@ -1,2 +1,2 @@
 # exploratory-data-analysis-project-1
-This repo is for the course project of one of the course "exploratory data analysis" offered through Coursera Data Science specialization.
+This repo is for the course project one of the course "exploratory data analysis" offered from Coursera Data Science specialization.
